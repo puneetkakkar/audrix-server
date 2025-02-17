@@ -19,18 +19,3 @@ Extract audio metadata features from the audio signals and use content-based lea
 6. **Full screen player support** 
 7. **Support for hotkeys while playing music** 
 7. **Separate recommendation zone with recommendations on the fly using ML algorithms with good accuracy**
-
-### Our Process :-
-![Screenshot](docs/our-process.jpg)
-
-### User Flow :-
-![Screenshot](docs/user-flow-1.jpg)
-![Screenshot](docs/user-flow-2.jpg)
-![Screenshot](docs/user-flow-3.jpg)
-
-### Platform Screens :-
-![Screenshot](docs/explore-music.png)    
-![Screenshot](docs/full-screen-player.png)    
-![Screenshot](docs/recommendation-zone.png)  
-![Screenshot](docs/search-including-results.png)  
-![Screenshot](docs/shortcut-list.png)     
