@@ -5,10 +5,6 @@ One of the major problems of recommender systems in general, and music recommend
 ##### Solution
 Extract audio metadata features from the audio signals and use content-based learning of the user interest, and user's friends interest in order to effect recommendation.
 
-#### Team Members
-[Puneet Kakkar](http://github.com/puneetkakkar91)  
-[Puneet Bansal](http://github.com/puneetbansal550)           
-
 ### Key features :- 
 
 1. **Stream efficiently based on the network bandwidth**
